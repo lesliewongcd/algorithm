@@ -18,6 +18,7 @@ public class Ch001 {
 
         ch001.implIfLinkedList();
 
+        ch001.implIfArrayList();
 
     }
 
@@ -72,5 +73,5 @@ public class Ch001 {
         }
     }
 
-    
+
 }
